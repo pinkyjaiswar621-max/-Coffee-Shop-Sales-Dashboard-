@@ -14,4 +14,5 @@ This project analyzes coffee shop sales performance across multiple dimensions b
 - How does revenue vary across different months?
 - Which weekday records the highest number of transactions?
 - How does revenue and profit compare on a monthly basis?
-  
+- Dashboard Interaction <a href="https://github.com/pinkyjaiswar621-max/-Coffee-Shop-Sales-Dashboard-/blob/main/cofee%20shop%20sales%20dashboard.png">View Dashboard</a>
+
