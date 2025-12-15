@@ -22,10 +22,12 @@ This project analyzes coffee shop sales performance across multiple dimensions b
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
 ## Dashboard
 <img width="1144" height="653" alt="cofee shop sales dashboard" src="https://github.com/user-attachments/assets/90bb1a03-7e57-4cfb-bad8-d485b779e90d" />
+
 ## Project Insight
 - Identified top revenue-generating product categories
 - Observed peak sales days during the week
 - Compared city-wise revenue contribution
 - Analyzed monthly revenue and profit fluctuations
+  
 ## Final Conclusion
  The Coffee Shop Sales Dashboard successfully transforms raw sales data into actionable business insights through effective data cleaning, processing, and visualization in Excel. By integrating KPIs, pivot tables, and interactive slicers, the dashboard enables quick performance tracking, trend identification, and data-driven decision-making.
