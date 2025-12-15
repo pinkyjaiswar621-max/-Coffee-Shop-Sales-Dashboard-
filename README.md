@@ -22,7 +22,7 @@ This project analyzes coffee shop sales performance across multiple dimensions b
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
 ## Dashboard
 <img width="1208" height="821" alt="cofee shop sales dashboard" src="https://github.com/user-attachments/assets/0396d3b3-43b3-46e0-ba62-7c26ba2e8692" />
-  Project Insight
+  ## Project Insight
 - Identified top revenue-generating product categories
 - Observed peak sales days during the week
 - Compared city-wise revenue contribution
