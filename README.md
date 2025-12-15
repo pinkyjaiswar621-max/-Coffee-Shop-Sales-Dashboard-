@@ -15,4 +15,10 @@ This project analyzes coffee shop sales performance across multiple dimensions b
 - Which weekday records the highest number of transactions?
 - How does revenue and profit compare on a monthly basis?
 - Dashboard Interaction <a href="https://github.com/pinkyjaiswar621-max/-Coffee-Shop-Sales-Dashboard-/blob/main/cofee%20shop%20sales%20dashboard.png">View Dashboard</a>
-
+## Process
+- Verify data or any missing values and anomalies and sort out the same.
+- Make sure data is consistent and clean with respect to the data type, data format and values used.
+- Created pivot tables according to the question asked 
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic
+## Dashboard
+<img width="1208" height="821" alt="cofee shop sales dashboard" src="https://github.com/user-attachments/assets/0396d3b3-43b3-46e0-ba62-7c26ba2e8692" />
